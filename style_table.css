@@ -1,0 +1,9 @@
+@charset "utf-8";
+body table tr td table tr td {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+.active{
+	color: #000;
+}
